@@ -1,5 +1,4 @@
 # Instructions
-
 We've provided a VERY basic Python script to perform inference against the Hugging Face `bert-base-uncased` model. This model takes in a string with a `[MASK]` key. The model will respond with 
 a list of JSON objects containing a probability score, a token, the token string (the value that will fill in `[MASK]`), and the original string with the `[MASK]` key replaced.
 
@@ -52,6 +51,8 @@ We would like you to create a REST API service with 2 endpoints:
 
 It's up to you which REST framework you prefer to use, be it Flask, FastAPI, or Django.
 
+Please timebox your work to 2-4 hours. If you finish up the API quickly, feel free to try to hit some of the bonus points listed below.
+
 # To perform this excercise
 1. Fork this repo.
 2. Commit your changes to your fork.
@@ -71,7 +72,6 @@ It's up to you which REST framework you prefer to use, be it Flask, FastAPI, or 
 * Implement a different model.
 
 # How will you be evaluated
-
 We're not looking for perfection; we really want to see how you tackle a problem, so please document your process.
 
 If you had to Google 90% of it to get it to work, THAT'S OK! It's not always about knowing the right answer,
