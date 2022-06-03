@@ -52,19 +52,19 @@ We would like you to create a REST API service with 2 endpoints:
 
 It's up to you which REST framework you prefer to use, be it Flask, FastAPI, or Django.
 
-# To perform this excercise:
+# To perform this excercise
 1. Fork this repo.
 2. Commit your changes to your fork.
 3. Submit a link to your fork, along with an explanation of your choices (such as REST framework, or anything else you want to point out). This can be in a README in your repo, or a few paragraphs in your response email.
 
-# What we would like to see:
+# What we would like to see
 * A working REST API.
 * Any additional Python requirements added to `requirements.txt`.
 * API documentation! At the very least a README file with the expected input as a cURL call, and sample JSON output.
-    * Bonus points if you add API documentation using something like OpenAPI.
+  * Bonus points if you add an API documentation endpoint using something like OpenAPI.
 * Tell us what else you would do to make this model ready for production use.
 
-# Bonus Points:
+# Bonus Points
 * Dockerize the application.
 * Create a pipeline to automatically build and deploy the application to a server.
 * Implement a different model.
