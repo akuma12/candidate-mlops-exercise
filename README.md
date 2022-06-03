@@ -62,6 +62,7 @@ It's up to you which REST framework you prefer to use, be it Flask, FastAPI, or 
 * Any additional Python requirements added to `requirements.txt`.
 * API documentation! At the very least a README file with the expected input as a cURL call, and sample JSON output.
   * Bonus points if you add an API documentation endpoint using something like OpenAPI.
+* Please use good Python formatting, adhering to PEP8 standards. Pylint should return a 9.0 quality score or higher.
 * Tell us what else you would do to make this model ready for production use.
 
 # Bonus Points
