@@ -71,7 +71,7 @@ It's up to you which REST framework you prefer to use, be it Flask, FastAPI, or 
 
 # How will you be evaluated
 
-We're not looking for perfection; we really want to see how you tackle a problem, so document your process.
+We're not looking for perfection; we really want to see how you tackle a problem, so please document your process.
 
 If you had to Google 90% of it to get it to work, THAT'S OK! It's not always about knowing the right answer,
 it's about knowing how to get the right answer. If you found solutions on the Internet, please cite them in your explanation.
