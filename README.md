@@ -69,6 +69,7 @@ Please timebox your work to 2-4 hours. If you finish up the API quickly, feel fr
 # Bonus Points
 * Dockerize the application.
 * Create a pipeline to automatically build and deploy the application to a server.
+* Add a unit test to validate inference output.
 * Implement a different model.
 
 # How will you be evaluated
